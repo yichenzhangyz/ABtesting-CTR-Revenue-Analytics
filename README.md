@@ -1,7 +1,7 @@
 # ABtesting-CTR-Revenue-Analytics
 This is showing how I did data analytics on A/B testing results.
 
-The dataset sample I have have following columns userid|country|groups|deviceid|device|sellerid|itemid|date|views|clicks|revenue
+The dataset sample have following columns userid|country|groups|deviceid|device|sellerid|itemid|date|views|clicks|revenue
 
 The notebook includes following topics -
 1. Check problems in dataset (missing userid, mixed users, users with multi devices, devices with multi-users)
